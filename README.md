@@ -1,7 +1,7 @@
 ﻿# 파이썬 라이브러리를 활용한 머신러닝
 #### (직접 구현하면서 배우는 본격 머신러닝 입문서)
 
-### mystudy 폴더에 내 노트북에서 스터디 한 코드가 추가됨
+### **mystudy 폴더에 내 노트북에서 스터디 한 코드를 추가함**
 
 이 레파지토리는 안드레아스 뮐러(Andreas Mueller)와 사라 귀도(Sarah Guido)의 책인 "Introduction to Machine
 Learning with Python"의 번역서 "[파이썬 라이브러리를 활용한 머신러닝](https://tensorflow.blog/%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%AC%EB%A5%BC-%ED%99%9C%EC%9A%A9%ED%95%9C-%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D/)" 책의 코드를 담고 있습니다.
